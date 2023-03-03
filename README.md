@@ -1,1 +1,1 @@
-https://mmo768.github.io/testjs/
+https://mmo768.github.io/qoutePro/
